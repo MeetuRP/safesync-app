@@ -1,0 +1,1001 @@
+Drug A,Drug B,Severity,Mechansim,Reference
+Alendronate,Nivolumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Alendronate,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Alendronate,Methotrexate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Alendronate,Losartan,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Alendronate,Gabapentin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Alendronate,Pregabalin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Alendronate,Quetiapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Alendronate,Tiotropium,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Alendronate,Ketoconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amiodarone,Ranitidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amiodarone,Omega-3 (Fish Oil),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amiodarone,Pantoprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amiodarone,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Amiodarone,Beclometasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amiodarone,Tetracycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amiodarone,Cefixime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amlodipine,Salbutamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amlodipine,Simvastatin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amlodipine,Insulin Lispro,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amlodipine,Cefuroxime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amlodipine,Clarithromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amlodipine,Pembrolizumab,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amlodipine,Naproxen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amlodipine,Captopril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amlodipine,Doxycycline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Metoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amoxicillin,Antacid (Omeprazole),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Amoxicillin,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Clonazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Alendronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Amoxicillin,Ketoconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Vitamin B12,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Amoxicillin,Insulin Aspart,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Metronidazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Methotrexate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Amiodarone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ampicillin,Doxycycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Oxycodone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ampicillin,Rosuvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ampicillin,Nivolumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ampicillin,Omega-3 (Fish Oil),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ampicillin,Tiotropium,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ampicillin,Heparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ampicillin,Naproxen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Escitalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Budesonide,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ampicillin,Liothyronine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ampicillin,Cefuroxime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ampicillin,Risedronate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ampicillin,Dexamethasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Antacid (Omeprazole),Sunitinib,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Antacid (Omeprazole),Hydrocortisone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Antacid (Omeprazole),Lisinopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Antacid (Omeprazole),Insulin Aspart,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Antacid (Omeprazole),Captopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aripiprazole,Insulin Glargine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Aripiprazole,Amlodipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aripiprazole,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Aripiprazole,Liothyronine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aripiprazole,Omeprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Aripiprazole,Minocycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aripiprazole,Hydrocortisone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Aripiprazole,Diclofenac Sodium,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Aripiprazole,Montelukast,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Aripiprazole,Sunitinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Aspirin,Citalopram,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Aspirin,Ampicillin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Aspirin,Iron (Ferrous Sulfate),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Aspirin,Captopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aspirin,Turmeric (Curcumin),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aspirin,Canagliflozin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Aspirin,Risperidone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Aspirin,Sertraline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Atorvastatin,Erythromycin,Major,CYP3A4 inhibition -> increased statin exposure,DrugBank
+Atorvastatin,Alendronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Atorvastatin,Salmeterol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Atorvastatin,Imatinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Atorvastatin,Phenytoin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Atorvastatin,Esomeprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Atorvastatin,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Atorvastatin,Vitamin D3,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Atorvastatin,Iron (Ferrous Sulfate),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Atorvastatin,Morphine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Azithromycin,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Azithromycin,Aspirin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Azithromycin,Captopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Azithromycin,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Azithromycin,Isosorbide Mononitrate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Baclofen,Levocetirizine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Baclofen,Isosorbide Mononitrate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Baclofen,Carbamazepine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Baclofen,Fluoxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Baclofen,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Baclofen,Tiotropium,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Baclofen,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Baclofen,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Baclofen,Loratadine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Beclometasone,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Beclometasone,Antacid (Omeprazole),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Beclometasone,Carbamazepine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Beclometasone,Liothyronine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Bisoprolol,Heparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Bisoprolol,Ranitidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Bisoprolol,Simvastatin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Bisoprolol,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Bisoprolol,Linagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Bisoprolol,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Bisoprolol,Morphine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Bisoprolol,Ampicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Bisoprolol,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Budesonide,Famotidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Budesonide,Vitamins A,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Budesonide,Tramadol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Budesonide,Sitagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Budesonide,Azithromycin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Budesonide,Multivitamin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Budesonide,Vitamin D3,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Calcium Carbonate,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Calcium Carbonate,Itraconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Calcium Carbonate,Paracetamol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Calcium Carbonate,Lorazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Calcium Carbonate,Quetiapine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Calcium Carbonate,Levocetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Calcium Carbonate,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Calcium Carbonate,Escitalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Calcium Carbonate,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Calcium Carbonate,Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Canagliflozin,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Canagliflozin,Multivitamin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Canagliflozin,Diclofenac Sodium,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Canagliflozin,Glibenclamide,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Canagliflozin,Tadalafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Canagliflozin,Codeine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Canagliflozin,Zolpidem,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Canagliflozin,Ibuprofen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Canagliflozin,Olanzapine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Canagliflozin,Metformin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Canagliflozin,Linagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Canagliflozin,Simvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Captopril,Hydrocortisone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Captopril,Paroxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Captopril,Erythromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Captopril,Gabapentin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Captopril,Heparin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Captopril,Green tea extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Captopril,Famotidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Captopril,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Captopril,Risperidone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Carbamazepine,Fluconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Carbamazepine,Metoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Metronidazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Nifedipine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Carbamazepine,Insulin Lispro,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Ciprofloxacin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Rosuvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Carbamazepine,Erythromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Ketoconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Carbamazepine,Naproxen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Carbamazepine,Zolpidem,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Carbamazepine,Oxycodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cefixime,Lamotrigine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cefixime,Naproxen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cefixime,Paracetamol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Cefixime,Empagliflozin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cefixime,Citalopram,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cefixime,Tramadol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cefixime,Metronidazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cefuroxime,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Cefuroxime,Promethazine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cetirizine,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Cetirizine,Turmeric (Curcumin),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cetirizine,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cetirizine,Empagliflozin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cetirizine,Imatinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cetirizine,Cefixime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cetirizine,Sildenafil,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cetirizine,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cetirizine,Vitamins A,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cetirizine,Amlodipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Cetirizine,Oxycodone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ciprofloxacin,Clonazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ciprofloxacin,Tiotropium,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ciprofloxacin,Lamotrigine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ciprofloxacin,Sunitinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Citalopram,Lamotrigine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Citalopram,Diazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Citalopram,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Citalopram,Pregabalin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Citalopram,Enalapril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Citalopram,Fluconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Propranolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Nitroglycerin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clarithromycin,Esomeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clarithromycin,Nivolumab,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Aripiprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Clarithromycin,Promethazine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clarithromycin,Risedronate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clarithromycin,Vitamin B12,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clonazepam,Citalopram,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clonazepam,Vitamins A,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clonazepam,Beclometasone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clonazepam,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clonazepam,Promethazine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clonazepam,Imatinib,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clonazepam,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Clonazepam,Doxycycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clonazepam,Cefuroxime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Clonazepam,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clopidogrel,Omeprazole,Major,Reduced efficacy of clopidogrel via CYP2C19 inhibition,DrugBank
+Clopidogrel,Carbamazepine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clopidogrel,Lamotrigine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Clopidogrel,Turmeric (Curcumin),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Codeine,Insulin Glargine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Codeine,Vitamin D3,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cyclophosphamide,Ibuprofen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cyclophosphamide,Prednisone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Cyclophosphamide,Vitamin B12,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Cyclophosphamide,Oxycodone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cyclophosphamide,Bisoprolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Cyclophosphamide,Omeprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Cyclophosphamide,Voriconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Dexamethasone,Promethazine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Dexamethasone,Ginkgo biloba,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Dexamethasone,Famotidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Dexamethasone,Azithromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Dexamethasone,Clopidogrel,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Dexamethasone,Insulin Glargine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Dexamethasone,Phenytoin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Dexamethasone,Isosorbide Mononitrate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diazepam,Bisoprolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diazepam,Fluoxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diazepam,Beclometasone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diazepam,Lithium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Diazepam,Amlodipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Diazepam,Phenytoin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Diazepam,Omeprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Diazepam,Losartan,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Diazepam,Cetirizine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diclofenac Sodium,Losartan,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diclofenac Sodium,Morphine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Diclofenac Sodium,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Doxorubicin,Glibenclamide,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Doxorubicin,Diazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Doxorubicin,Esomeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Doxorubicin,Pantoprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Doxorubicin,Levetiracetam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Doxycycline,Codeine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Doxycycline,Heparin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Doxycycline,Losartan,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Doxycycline,Cefuroxime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Doxycycline,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Doxycycline,Loratadine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Doxycycline,Pantoprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+,,,,
+Empagliflozin,Esomeprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Empagliflozin,Amlodipine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Empagliflozin,Trastuzumab,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Empagliflozin,Sertraline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Empagliflozin,Carbamazepine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Empagliflozin,Propranolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Empagliflozin,Beclometasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Empagliflozin,Metoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Empagliflozin,Imatinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Empagliflozin,Codeine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Enalapril,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enalapril,Losartan,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Enalapril,Sildenafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Enalapril,Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Enoxaparin,Insulin Aspart,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Captopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Clonazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Carbamazepine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Quetiapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Enoxaparin,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Enoxaparin,Salmeterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Enoxaparin,Vitamin B12,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Enoxaparin,Canagliflozin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Enoxaparin,Lisinopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Vitamin D3,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Erythromycin,Fluconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Prednisone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Erythromycin,Insulin Lispro,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Ampicillin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Linagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Erythromycin,Tadalafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Escitalopram,Phenytoin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Escitalopram,Codeine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Escitalopram,Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Escitalopram,Paracetamol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Esomeprazole,Amiodarone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Esomeprazole,Oxycodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Esomeprazole,Tramadol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Esomeprazole,Tiotropium,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Esomeprazole,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Esomeprazole,Ampicillin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Esomeprazole,Lithium Carbonate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Famotidine,Risedronate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Famotidine,Antacid (Omeprazole),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Famotidine,Olanzapine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Famotidine,Trastuzumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Famotidine,Doxycycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Famotidine,Pantoprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Famotidine,Isosorbide Mononitrate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluconazole,Metoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluconazole,Alendronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluconazole,Folic Acid,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Fluconazole,Ibuprofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluconazole,Bisoprolol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Fluconazole,Insulin Lispro,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Fluconazole,Ginkgo biloba,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluconazole,Amlodipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluoxetine,Iron (Ferrous Sulfate),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Fluoxetine,Garlic extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Fluoxetine,Ampicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Folic Acid,Ginkgo biloba,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Folic Acid,Sertraline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Folic Acid,Vitamins A,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Folic Acid,Linagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Folic Acid,Voriconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Formoterol,Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Formoterol,Insulin Glargine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Formoterol,Cefuroxime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Formoterol,Bisoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Formoterol,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Formoterol,Omega-3 (Fish Oil),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Formoterol,Quetiapine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Formoterol,Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Formoterol,Salmeterol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Gabapentin,Promethazine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Gabapentin,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Gabapentin,Montelukast,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Gabapentin,Budesonide,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Gabapentin,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Gabapentin,Escitalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Gabapentin,Salmeterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Garlic extract,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Nitroglycerin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Pregabalin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Citalopram,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Garlic extract,Aripiprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Garlic extract,Heparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Garlic extract,Linagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Garlic extract,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Garlic extract,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Garlic extract,Green tea extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Nifedipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Rosuvastatin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Garlic extract,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Garlic extract,Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ginkgo biloba,Paclitaxel,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ginkgo biloba,Imatinib,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ginkgo biloba,Doxorubicin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ginkgo biloba,Erythromycin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ginkgo biloba,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ginkgo biloba,Diclofenac Sodium,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Glibenclamide,Amlodipine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glibenclamide,Amiodarone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Glibenclamide,Morphine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Glibenclamide,Trastuzumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glibenclamide,Fluoxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Glimepiride,Aspirin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glimepiride,Pantoprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Glimepiride,Fluconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glimepiride,Multivitamin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Glimepiride,Metformin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Glimepiride,Isosorbide Mononitrate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Glimepiride,Sildenafil,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glimepiride,Hydrocodone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Glimepiride,Fluoxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Grapefruit juice,Statins,Major,CYP3A4 inhibition leading to increased statin exposure,FDA
+Grapefruit juice,Promethazine,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Erythromycin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Sitagliptin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Montelukast,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Insulin (Human),Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Carbamazepine,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Budesonide,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Grapefruit juice,Oxycodone,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Green tea extract,Levofloxacin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Green tea extract,Itraconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Green tea extract,Citalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Green tea extract,Amlodipine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Green tea extract,Vitamin B12,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Green tea extract,Erythromycin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Heparin,Citalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Heparin,Turmeric (Curcumin),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Heparin,Metronidazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Heparin,Imatinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Heparin,Aspirin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Heparin,Escitalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Hydrocodone,Alendronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Hydrocodone,Levocetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Hydrocodone,Saxagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Hydrocodone,Lisinopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Hydrocortisone,Cefuroxime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Hydrocortisone,Metformin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Hydrocortisone,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Hydrocortisone,Ketoconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Hydrocortisone,Fluconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Hydrocortisone,Zolpidem,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ibuprofen,Ketoconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ibuprofen,Vitamins A,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ibuprofen,Levocetirizine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ibuprofen,Enalapril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ibuprofen,Tramadol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ibuprofen,Vitamin D3,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ibuprofen,Saxagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ibuprofen,Phenytoin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Imatinib,Dexamethasone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Saxagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Lisinopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Imatinib,Tetracycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Imatinib,Cefixime,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Imatinib,Amiodarone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Imatinib,Paroxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Levothyroxine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Amlodipine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Levofloxacin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Imatinib,Montelukast,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Imatinib,Levetiracetam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin (Human),Insulin Glargine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin (Human),Diazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin (Human),St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Insulin (Human),Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin (Human),Aspirin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin (Human),Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin (Human),Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Aspart,Linagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Aspart,Vitamin B12,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Aspart,Cetirizine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Aspart,Lisinopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Aspart,Sertraline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Aspart,Imatinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Glargine,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Insulin Glargine,Linagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Glargine,Garlic extract,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Glargine,Paracetamol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Glargine,Fluconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Glargine,Esomeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Glargine,Ciprofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Glargine,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Glargine,Ampicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Lispro,Levetiracetam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Lispro,Tadalafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Lispro,Cetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Insulin Lispro,Insulin Aspart,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Insulin Lispro,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Lispro,Formoterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Lispro,Montelukast,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Insulin Lispro,Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Nitroglycerin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Levothyroxine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Omega-3 (Fish Oil),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Famotidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Ketoconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Losartan,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Hydrocortisone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Iron (Ferrous Sulfate),Metronidazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Cefixime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Multivitamin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Ranitidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Insulin Lispro,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Ampicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Aripiprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Isosorbide Mononitrate,Fluconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Itraconazole,Insulin Aspart,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Itraconazole,Azithromycin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Itraconazole,Cefuroxime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Itraconazole,Lorazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Itraconazole,Propranolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Itraconazole,Folic Acid,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Itraconazole,Citalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Itraconazole,Baclofen,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Itraconazole,Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Itraconazole,Cyclophosphamide,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Itraconazole,Prednisone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Itraconazole,Tramadol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Itraconazole,Simvastatin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ketoconazole,Propranolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ketoconazole,Salmeterol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ketoconazole,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ketoconazole,Omeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ketoconazole,Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ketoconazole,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ketoconazole,Doxorubicin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ketoconazole,Tadalafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ketoconazole,Formoterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ketoconazole,Pregabalin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ketoconazole,Bisoprolol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ketoconazole,Garlic extract,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Levetiracetam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lamotrigine,Fluoxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lamotrigine,Nitroglycerin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Montelukast,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Insulin Lispro,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Green tea extract,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lamotrigine,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lamotrigine,Imatinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Diazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lamotrigine,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lamotrigine,Tetracycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lamotrigine,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lamotrigine,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lamotrigine,Clarithromycin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levetiracetam,Clarithromycin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levetiracetam,Ranitidine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levetiracetam,Linagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levetiracetam,Tiotropium,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levetiracetam,Glibenclamide,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levetiracetam,Zolpidem,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levetiracetam,Erythromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levetiracetam,Cefixime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levetiracetam,Baclofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levetiracetam,Clonazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levocetirizine,Metronidazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levocetirizine,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levocetirizine,Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levocetirizine,Diazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levocetirizine,Aripiprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levocetirizine,Zolpidem,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levocetirizine,Canagliflozin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levocetirizine,Salbutamol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levocetirizine,Rosuvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levocetirizine,Vitamin B12,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levofloxacin,Linagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levofloxacin,Cefixime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levofloxacin,Formoterol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levofloxacin,Liothyronine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levofloxacin,Metformin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levofloxacin,Sildenafil,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levofloxacin,Vitamin D3,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levofloxacin,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Levofloxacin,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levofloxacin,Insulin Aspart,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levofloxacin,Salmeterol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levothyroxine,Carbamazepine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levothyroxine,Ranitidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levothyroxine,Dexamethasone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levothyroxine,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Levothyroxine,Minocycline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levothyroxine,Bisoprolol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Levothyroxine,Morphine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Levothyroxine,Lisinopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Linagliptin,Dexamethasone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Diazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Ibuprofen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Amoxicillin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Olanzapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Lisinopril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Linagliptin,Aspirin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Linagliptin,Simvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Liothyronine,Fluoxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Liothyronine,Imatinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Liothyronine,Cefuroxime,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Liothyronine,Quetiapine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Liothyronine,Paracetamol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Liothyronine,Salmeterol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Liothyronine,Ciprofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Liothyronine,Insulin Aspart,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lisinopril,Insulin (Human),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lisinopril,Amlodipine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lisinopril,Zolpidem,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lisinopril,Ibuprofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lisinopril,Lorazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lisinopril,Captopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lisinopril,Famotidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lisinopril,Pantoprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lisinopril,Glibenclamide,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lisinopril,Losartan,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lithium Carbonate,Amlodipine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lithium Carbonate,Insulin (Human),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lithium Carbonate,Cefixime,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Lithium Carbonate,Liothyronine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lithium Carbonate,Captopril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Loratadine,Hydrocortisone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Loratadine,Aripiprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Loratadine,Erythromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Loratadine,Metoprolol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Loratadine,Codeine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Loratadine,Tiotropium,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Loratadine,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Lorazepam,Sunitinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Lorazepam,Tramadol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lorazepam,Cyclophosphamide,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lorazepam,Turmeric (Curcumin),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Lorazepam,Paroxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Losartan,Lorazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Losartan,Ranitidine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Losartan,Famotidine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Losartan,Heparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Losartan,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Losartan,Baclofen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Losartan,Saxagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Macrolide antibiotic,Statin,Major,"CYP3A4 inhibition, increased myopathy risk",DrugBank
+Metformin,Risperidone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metformin,Azithromycin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metformin,Montelukast,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metformin,Insulin Lispro,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metformin,Doxorubicin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metformin,Omeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metformin,Citalopram,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metformin,Esomeprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metformin,Hydrocodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metformin,Olanzapine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metformin,Fluconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Hydrocortisone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Methotrexate,Green tea extract,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Metronidazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Insulin Aspart,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Methotrexate,Doxorubicin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Levothyroxine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Methotrexate,Ranitidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Paroxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Enalapril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Methotrexate,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Cefixime,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metoprolol,Clopidogrel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Olanzapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metoprolol,Itraconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metoprolol,Salmeterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metoprolol,Omeprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metoprolol,Gabapentin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metoprolol,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Voriconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Risperidone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Metoprolol,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metoprolol,Doxycycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metronidazole,Lorazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metronidazole,Doxorubicin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Metronidazole,Empagliflozin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Metronidazole,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Minocycline,Salbutamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Minocycline,Rosuvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Minocycline,Lisinopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Minocycline,Pantoprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Minocycline,Nivolumab,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Minocycline,Enalapril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Montelukast,Sitagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Montelukast,Metoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Montelukast,Levetiracetam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Montelukast,Cefuroxime,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Montelukast,Ibuprofen,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Montelukast,Carbamazepine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Montelukast,Hydrocodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Morphine,Simvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Morphine,Isosorbide Mononitrate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Morphine,Insulin Glargine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Morphine,Clonazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Morphine,Levetiracetam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Morphine,Ciprofloxacin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Morphine,Vitamin D3,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Multivitamin,Montelukast,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Multivitamin,Simvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Multivitamin,Oxycodone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Multivitamin,Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Multivitamin,Prednisone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Multivitamin,Formoterol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Naproxen,Risperidone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Naproxen,Paclitaxel,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Naproxen,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Naproxen,Lisinopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Naproxen,Saxagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Naproxen,Clopidogrel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Naproxen,Metformin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Naproxen,Voriconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Naproxen,Nifedipine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Naproxen,Garlic extract,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Naproxen,Enalapril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Nifedipine,Clarithromycin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nifedipine,Metformin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nifedipine,Insulin Lispro,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nifedipine,Vitamins A,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Nifedipine,Ranitidine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nifedipine,Metronidazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nitroglycerin,Metformin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nitroglycerin,Calcium Carbonate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nitroglycerin,Diazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nitroglycerin,Vitamins A,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nitroglycerin,Prednisone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nitroglycerin,Minocycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Nitroglycerin,Atorvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nitroglycerin,Amiodarone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nivolumab,Dexamethasone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Nivolumab,Formoterol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Nivolumab,Omeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nivolumab,Gabapentin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nivolumab,Vitamins A,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Nivolumab,Methotrexate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Olanzapine,Saxagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Olanzapine,Carbamazepine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Olanzapine,Simvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Olanzapine,Quetiapine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Olanzapine,Metronidazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Olanzapine,Beclometasone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Olanzapine,Fluconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Olanzapine,Zolpidem,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Olanzapine,Methotrexate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Olanzapine,Citalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Olanzapine,Trastuzumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Pembrolizumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Gabapentin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Liothyronine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Morphine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Insulin Glargine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omega-3 (Fish Oil),Ciprofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Omeprazole,Quetiapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Omeprazole,Amiodarone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omeprazole,Esomeprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Omeprazole,Pregabalin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Omeprazole,Dexamethasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omeprazole,Montelukast,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Omeprazole,Tadalafil,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Oxycodone,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Oxycodone,Vitamins A,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Oxycodone,Enoxaparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Cefixime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Doxycycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Aripiprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Loratadine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Paclitaxel,Glibenclamide,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Iron (Ferrous Sulfate),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paclitaxel,Sunitinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Paclitaxel,Lisinopril,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Paclitaxel,Sertraline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pantoprazole,Sildenafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pantoprazole,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pantoprazole,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pantoprazole,Pregabalin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paracetamol,Famotidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paracetamol,Aspirin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Paracetamol,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Paracetamol,Loratadine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Paracetamol,Simvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paracetamol,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Paroxetine,Doxorubicin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paroxetine,Levofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paroxetine,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Paroxetine,Quetiapine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Paroxetine,Phenytoin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Paroxetine,Amiodarone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Paroxetine,Diclofenac Sodium,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pembrolizumab,Naproxen,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pembrolizumab,Budesonide,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pembrolizumab,Sunitinib,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pembrolizumab,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Pembrolizumab,Fluoxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pembrolizumab,Oxycodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pembrolizumab,Empagliflozin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pembrolizumab,Pantoprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pembrolizumab,Esomeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pembrolizumab,Beclometasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pembrolizumab,Aspirin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Phenytoin,Promethazine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Phenytoin,Lithium Carbonate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Phenytoin,Citalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Phenytoin,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Phenytoin,Vitamin D3,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Prednisone,Simvastatin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Prednisone,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Prednisone,Insulin Aspart,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Prednisone,Hydrocodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Prednisone,Pregabalin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pregabalin,Tetracycline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pregabalin,Paroxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pregabalin,Metronidazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pregabalin,Ibuprofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pregabalin,Paracetamol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pregabalin,Glibenclamide,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pregabalin,Diazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Pregabalin,Levocetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pregabalin,Bisoprolol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pregabalin,Famotidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Pregabalin,Lorazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pregabalin,Oxycodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Pregabalin,Ciprofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Promethazine,Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Promethazine,Erythromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Promethazine,Minocycline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Promethazine,Morphine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Promethazine,Ciprofloxacin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Promethazine,Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Propranolol,Sildenafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Propranolol,Liothyronine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Propranolol,Morphine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Propranolol,Metronidazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Propranolol,Ibuprofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Propranolol,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Quetiapine,Levocetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Quetiapine,Bisoprolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Quetiapine,Minocycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Quetiapine,Ampicillin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ranitidine,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Ranitidine,Insulin Glargine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Ranitidine,Sildenafil,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ranitidine,Cefuroxime,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ranitidine,Ciprofloxacin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Ranitidine,Metformin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Ranitidine,Folic Acid,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Rifampicin,Oral contraceptives,Major,Induction reduces contraceptive efficacy,DrugBank
+Risedronate,Doxycycline,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Risedronate,Ginkgo biloba,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risedronate,Trastuzumab,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risedronate,Montelukast,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Risedronate,Diclofenac Sodium,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risedronate,Beclometasone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risedronate,Vitamin D3,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Risedronate,Lisinopril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risedronate,Clopidogrel,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Risedronate,Clonazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Risperidone,Morphine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risperidone,Vitamins A,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risperidone,Green tea extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risperidone,Doxorubicin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risperidone,Sildenafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Risperidone,Ibuprofen,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Rosuvastatin,Fluconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Rosuvastatin,Paroxetine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Rosuvastatin,Iron (Ferrous Sulfate),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Rosuvastatin,Losartan,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Rosuvastatin,Tetracycline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Rosuvastatin,Folic Acid,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Rosuvastatin,Loratadine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Rosuvastatin,Cetirizine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Rosuvastatin,Metronidazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salbutamol,Amoxicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Salbutamol,Simvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Salbutamol,Prednisone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salbutamol,Diazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salbutamol,Insulin Glargine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salbutamol,Multivitamin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Salbutamol,Fluconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salbutamol,Methotrexate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salmeterol,Oxycodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salmeterol,Heparin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Salmeterol,Clonazepam,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Salmeterol,Omega-3 (Fish Oil),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Salmeterol,Tadalafil,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Saxagliptin,Methotrexate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Saxagliptin,Paclitaxel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Saxagliptin,Lamotrigine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Saxagliptin,Amoxicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Saxagliptin,Ginkgo biloba,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Saxagliptin,Voriconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Saxagliptin,Montelukast,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Saxagliptin,Glibenclamide,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Sertraline,MAOI,Major,Risk of serotonin syndrome,BNF;DrugBank
+Sertraline,Vitamin D3,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sertraline,Clonazepam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sertraline,Metformin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sertraline,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sildenafil,Nitrate,Major,Severe hypotension risk,BNF
+Sildenafil,Risedronate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Sildenafil,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Sildenafil,Voriconazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sildenafil,Escitalopram,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Simvastatin,Clarithromycin,Major,CYP3A4 inhibition -> increased statin levels -> rhabdomyolysis risk,DrugBank;FDA
+Simvastatin,Grapefruit juice,Major,Grapefruit inhibits CYP3A4 -> increased statin levels,FDA;DrugBank
+Simvastatin,Liothyronine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Simvastatin,Ciprofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Simvastatin,Vitamins A,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Simvastatin,Aripiprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Simvastatin,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sitagliptin,Salbutamol,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sitagliptin,Loratadine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sitagliptin,Ampicillin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sitagliptin,Levetiracetam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sitagliptin,Levofloxacin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Sitagliptin,Losartan,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sitagliptin,Oxycodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sitagliptin,Aspirin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sitagliptin,Pantoprazole,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sitagliptin,Ciprofloxacin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sitagliptin,Atorvastatin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+SSRIs,MAOI,Major,Serotonin syndrome,DrugBank
+St. John's wort,Oral contraceptives,Major,Reduces efficacy of hormonal contraceptives,DrugBank
+St. John's wort,Warfarin,Major,Alters warfarin levels (induction) - variable effect,DrugBank
+St. John's wort,Salmeterol,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Nitroglycerin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Lamotrigine,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Montelukast,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Glibenclamide,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Quetiapine,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Pantoprazole,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+St. John's wort,Naproxen,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Sunitinib,Famotidine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sunitinib,Imatinib,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Sunitinib,Amiodarone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Sunitinib,Enalapril,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Sunitinib,Vitamin D3,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Sunitinib,Quetiapine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tadalafil,Calcium Carbonate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tadalafil,Clarithromycin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tadalafil,Pregabalin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tadalafil,Codeine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tadalafil,Amoxicillin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tadalafil,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tadalafil,Aripiprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tetracycline,Alendronate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tetracycline,Tiotropium,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tetracycline,Green tea extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tetracycline,Clarithromycin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tetracycline,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tetracycline,Olanzapine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tetracycline,Paroxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tiotropium,Lorazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tiotropium,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tiotropium,Captopril,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tiotropium,Oxycodone,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tiotropium,Levofloxacin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tiotropium,Canagliflozin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tiotropium,Cefuroxime,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tramadol,SSRI,Major,Risk of serotonin syndrome,DrugBank
+Tramadol,Citalopram,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tramadol,Grapefruit juice,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Tramadol,St. John's wort,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Tramadol,Fluoxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Tramadol,Pantoprazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Tramadol,Salbutamol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tramadol,Vitamin B12,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Tramadol,Antacid (Omeprazole),Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Trastuzumab,Garlic extract,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Trastuzumab,Tadalafil,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Trastuzumab,Lorazepam,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Trastuzumab,Turmeric (Curcumin),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Trastuzumab,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Trastuzumab,Atorvastatin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Trastuzumab,Fluoxetine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Turmeric (Curcumin),Ginkgo biloba,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Turmeric (Curcumin),Nivolumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Turmeric (Curcumin),Itraconazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Turmeric (Curcumin),Minocycline,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Turmeric (Curcumin),Beclometasone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Turmeric (Curcumin),Insulin (Human),Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin B12,Metoprolol,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin B12,Amlodipine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin B12,Nivolumab,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin B12,Lithium Carbonate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin B12,Risedronate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamin B12,Sertraline,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin B12,Nifedipine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin B12,Paclitaxel,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin B12,Hydrocodone,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamin D3,Vitamin B12,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamin D3,Sitagliptin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin D3,Levothyroxine,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin D3,Tiotropium,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin D3,Lithium Carbonate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin D3,Risperidone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin D3,Canagliflozin,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin D3,Metoprolol,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamin D3,Amiodarone,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamin D3,Folic Acid,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamins A,Escitalopram,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamins A,Pembrolizumab,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamins A,Insulin Lispro,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Vitamins A,Calcium Carbonate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamins A,Clopidogrel,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Vitamins A,Isosorbide Mononitrate,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Vitamins A,Paroxetine,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Voriconazole,Levetiracetam,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Voriconazole,Ranitidine,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Voriconazole,Itraconazole,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Voriconazole,Esomeprazole,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Voriconazole,Clopidogrel,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Voriconazole,Warfarin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Voriconazole,Nitroglycerin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Voriconazole,Turmeric (Curcumin),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Voriconazole,Enoxaparin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Warfarin,Aspirin,Major,Increased bleeding risk - additive anticoagulant/antiplatelet effect,BNF;DrugBank
+Warfarin,Amoxicillin,Major,Potential increase in INR - antibiotic effect on gut flora,DrugBank;Literature
+Warfarin,Metronidazole,Major,Increased bleeding via CYP inhibition/altered gut flora,DrugBank
+Warfarin,Fluconazole,Major,CYP inhibition leading to increased warfarin levels,DrugBank
+Warfarin,Amiodarone,Major,Pharmacokinetic interaction increasing warfarin levels,DrugBank
+Warfarin,Salmeterol,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Warfarin,Beclometasone,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Warfarin,Antacid (Omeprazole),Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Warfarin,Saxagliptin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Warfarin,Glimepiride,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Warfarin,Nitroglycerin,Major,High-risk pharmacokinetic or pharmacodynamic interaction (see references),DrugBank;BNF;FDA
+Zolpidem,Imatinib,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Zolpidem,Green tea extract,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Zolpidem,Sitagliptin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Zolpidem,Calcium Carbonate,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Zolpidem,Glimepiride,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Zolpidem,Pregabalin,Moderate,Moderate interaction — monitor therapy,DrugBank;BNF;FDA
+Zolpidem,Isosorbide Mononitrate,Minor,Minor interaction — usually clinically manageable,DrugBank;BNF;FDA
+Zolpidem,Omega-3 (Fish Oil),None,No significant interaction identified in checked list,DrugBank;BNF;FDA
+Zolpidem,Saxagliptin,None,No significant interaction identified in checked list,DrugBank;BNF;FDA
