@@ -83,11 +83,13 @@ st.markdown("""
 
 # --- Sidebar ---
 with st.sidebar:
-    st.image("logo.jpg", width=120)
+    ##st.image("logo.jpg", width=150)
+    st.markdown("---")
     st.title("SafeSync")
     st.markdown("##### *Smarter Choice, Safer Outcomes*")
     st.markdown("---")
-    st.info("This tool provides drug formulation and interaction information based on the uploaded datasets. It is intended for informational purposes by medical professionals.")
+    st.info("»» This tool provides drug formulation and interaction information based on the uploaded datasets.\n \n »» It is used for research purposes to assess the feasibility of combining various excipients using AI and analyzing potential drug–excipient interactions.")
+    st.markdown("---")
 
 # --- Data Loading and Caching ---
 @st.cache_data
@@ -107,8 +109,13 @@ def load_data():
 df_drugs, df_interactions = load_data()
 
 # --- Main Page ---
-st.title("SafeSync Drug Reference")
-st.markdown("Select a drug and its dosage form to retrieve detailed formulation and safety information.")
+col1, col2 = st.columns([2, 5])
+with col1:
+    st.image("logo.jpg", width=550)
+with col2:
+    st.title("SafeSync Formulation Assistant")
+    st.markdown("<p class='muted'>Select a drug and its dosage form to retrieve detailed formulation and safety information.</p>", unsafe_allow_html=True)
+
 
 if df_drugs is not None and df_interactions is not None:
     # --- User Input Section ---
@@ -208,9 +215,12 @@ if df_drugs is not None and df_interactions is not None:
 
                 # --- References Card ---
                 st.markdown(f"""<div class="card"><h3>📚 References</h3>
-                <ul>
-                    <li>_{drug_info_row.get('ReferenceSource', 'No references listed.')}_</li>
-                </ul>
+                <ol type="1">
+                    <li> U.S. Food and Drug Administration. Inactive ingredient database. Silver Spring (MD): FDA; 2025</li>
+                    <li> International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH). ICH harmonised tripartite guideline Q10: Pharmaceutical quality system. Geneva: ICH; 2008</li>
+                    <li> Lachman L, Lieberman HA, Kanig JL. The theory and practice of industrial pharmacy. 4th ed. New Delhi: CBS Publishers & Distributors; 2013.</li>
+                    <li> Rowe RC, Sheskey PJ, Quinn ME, editors. Handbook of pharmaceutical excipients. 8th ed. London: Pharmaceutical Press; 2017.</li>
+                </ol>
                 </div>""", unsafe_allow_html=True)
 
             else:
