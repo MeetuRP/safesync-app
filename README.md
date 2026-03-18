@@ -80,3 +80,4 @@ You're all set\! Run the following command to start the Streamlit application:
 streamlit run safesync\_app.py
 
 Your default web browser will automatically open a new tab with the SafeSync application running locally.
+[**Streamlit**](https://safesync.streamlit.app/) link to open safesync hosted with streamlit
